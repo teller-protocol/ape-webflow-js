@@ -1,0 +1,14 @@
+{
+  "name": "@teller-protocol/ape-webflow-js",
+  "version": "0.0.1",
+  "description": "",
+  "files": [
+    "lib/*.js"
+  ],
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.2"
+}
